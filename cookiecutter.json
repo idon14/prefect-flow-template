@@ -1,5 +1,5 @@
 {
-  "project_slug": "Project name",
+  "project_name": "Project name",
   "flow_name": "Flow name",
   "cron_expression": "0 9 * * *"
 }
